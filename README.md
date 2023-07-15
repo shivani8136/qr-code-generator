@@ -1,6 +1,6 @@
 ### QR Code Generator
 
-This project, built using Nodejs, generates a QR image for the URL entered by the user. 
+This project, built using Node.js, generates a QR image for the URL entered by the user. 
 
 The QR image gets created in the qr_img.png file.
 The URL entered by the user gets stored in the URL.txt file.
